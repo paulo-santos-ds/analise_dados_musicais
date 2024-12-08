@@ -1,5 +1,3 @@
-## novo power bi
-
 # Novo Power BI
 
 Confira o relatório interativo do Power BI clicando no link abaixo:
@@ -8,5 +6,5 @@ Confira o relatório interativo do Power BI clicando no link abaixo:
 
 Ou veja a prévia abaixo:
 
-![Prévia do Relatório Power BI](https://via.placeholder.com/600x373.png)
+![Prévia do Relatório Power BI](https://seu-link-para-imagem.png)
 
