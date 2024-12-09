@@ -5,7 +5,15 @@ Este dashboard oferece uma análise detalhada sobre o desempenho das músicas e 
 
 ## Principais Funcionalidades
 
-https://github.com/paulo-santos-ds/analise_vibracos/blob/main/dashboard_musicais.png
+## Dashboard Interativo Tableau
+Você pode acessar o dashboard interativo no Tableau através do link: https://app.powerbi.com/view?r=eyJrIjoiNTk5MzEyMzMtZGYwNy00OGJhLWJiZmItZGY3NWMyYmQxMzVjIiwidCI6ImU0MTE4ZWJlLTBhMDQtNDg5Mi1iNDVlLTc3NTBiNjNkMTVkYiJ9
+<div class='tableauPlaceholder' id='viz1730345003962' style='position: relative'>
+    <noscript>
+        <a href='#'>
+            <img alt='Painel 1' src='https://github.com/paulo-santos-ds/analise_vibracos/blob/main/dashboard_musicais.png' style='border: none' />
+        </a>
+</div>
+
 
 ### Análise de Dados
 - **Divisão por Gênero**: Distribuição das horas escutadas entre músicas de gêneros **feminino** e **masculino**
