@@ -5,8 +5,8 @@ Este dashboard oferece uma análise detalhada sobre o desempenho das músicas e 
 
 ## Principais Funcionalidades
 
-## Dashboard Interativo Tableau
-Você pode acessar o dashboard interativo no Tableau através do link: https://abrir.link/lJLss
+## Dashboard Interativo Power BI
+Você pode acessar o dashboard interativo no Power BI através do link: https://abrir.link/lJLss
 <div class='tableauPlaceholder' id='viz1730345003962' style='position: relative'>
     <noscript>
         <a href='#'>
