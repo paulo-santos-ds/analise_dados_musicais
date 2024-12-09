@@ -5,6 +5,8 @@ Este dashboard oferece uma análise detalhada sobre o desempenho das músicas e 
 
 ## Principais Funcionalidades
 
+https://github.com/paulo-santos-ds/analise_vibracos/blob/main/dashboard_musicais.png
+
 ### Análise de Dados
 - **Divisão por Gênero**: Distribuição das horas escutadas entre músicas de gêneros **feminino** e **masculino**
 - **Top 10 Músicas Mais Ouvidas**: Ranking das músicas mais populares baseado em horas escutadas
