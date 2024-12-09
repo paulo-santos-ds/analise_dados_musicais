@@ -45,8 +45,6 @@ Você pode acessar o dashboard interativo no Tableau através do link: https://a
 - **Ferramentas de Visualização**: Power BI, Tableau
 - **Fonte de Dados**: Plataformas de streaming de música
 
-## Como Usar
-
 ### Funcionalidades de Filtro
 1. **Filtro de Gênero**: Selecione "Feminino" ou "Masculino"
 2. **Top 10 Músicas**: Explore detalhes clicando nas barras
@@ -57,10 +55,23 @@ Você pode acessar o dashboard interativo no Tableau através do link: https://a
 ## Conclusão
 O dashboard fornece insights visuais sobre popularidade musical, tendências de ouvintes e distribuição geográfica de preferências musicais.
 
-## Próximos Passos
-- Adicionar mais filtros interativos
-- Expandir análise para mais regiões e gêneros
-- Implementar análise de tendências temporais
+
+## 🚀 Como Usar
+
+1. Clone o repositório
+```bash
+ https://github.com/paulo-santos-ds/analise_dados_musicais
+```
+
+2. Instale as dependências
+```bash
+pip install -r requirements.txt
+```
+
+3. Execute o notebook principal
+```bash
+dashboard_musicais.png
+```
 
 
 
