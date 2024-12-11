@@ -15,6 +15,7 @@ Você pode acessar o dashboard interativo no Power BI através do link: https://
 </div>
 
 
+
 ### Análise de Dados
 - **Divisão por Gênero**: Distribuição das horas escutadas entre músicas de gêneros **feminino** e **masculino**
 - **Top 10 Músicas Mais Ouvidas**: Ranking das músicas mais populares baseado em horas escutadas
