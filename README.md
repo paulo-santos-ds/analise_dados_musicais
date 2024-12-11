@@ -1,4 +1,4 @@
-# Dashboard de Análise de Músicas Mais Ouvidas
+# Análise de Músicas Mais Ouvidas
 
 ## Visão Geral
 Este dashboard oferece uma análise detalhada sobre o desempenho das músicas e dos artistas, baseado nas horas escutadas por gênero musical, região e outros critérios. Ele é útil para compreender as preferências musicais dos ouvintes, tendências regionais e o impacto de artistas específicos.
