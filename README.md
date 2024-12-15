@@ -30,6 +30,7 @@ Você pode acessar o dashboard interativo no Power BI através do link: https://
 - Métricas baseadas em horas de reprodução
 - Exemplos: "Shape of You", "Believer"
 
+
 ### 2. Gráfico de Pizza - Distribuição Regional
 - Distribuição de horas ouvidas por região
 - Regiões incluídas: Norte, Sul, Sudeste, Centro-Oeste
