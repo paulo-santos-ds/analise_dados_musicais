@@ -57,7 +57,6 @@ Você pode acessar o dashboard interativo no Power BI através do link: https://
 ## Conclusão
 O dashboard fornece insights visuais sobre popularidade musical, tendências de ouvintes e distribuição geográfica de preferências musicais.
 
-
 ## 🚀 Como Usar
 
 1. Clone o repositório
