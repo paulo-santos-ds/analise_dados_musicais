@@ -73,6 +73,3 @@ pip install -r requirements.txt
 dashboard_musicais.png
 ```
 
-
-
-
